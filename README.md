@@ -24,7 +24,5 @@ described in [2].
 The rest of the framework, is distributed by the Assistants of the class and belongs to them.
 
 References:
-[1]http://papers.nips.cc/paper/
-4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
-[2] Karen Simonyan and Andrew Zisserman. 2015. Very Deep Convolutional Net-
-works for Large-Scale Image Recognition. CoRR abs/1409.1556 (2015).
+[1] http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+[2] Karen Simonyan and Andrew Zisserman. 2015. Very Deep Convolutional Networks for Large-Scale Image Recognition. CoRR abs/1409.1556 (2015).
